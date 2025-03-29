@@ -23,7 +23,7 @@ const Footer = () => {
                 <h2>GET IN TOUCH</h2>
                 <ul>
                     <li>+1-212-456-7890</li>
-                    <li>contact@tomato.com</li>
+                    <li>contact@foodcourt.com</li>
                 </ul>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
